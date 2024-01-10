@@ -11,6 +11,7 @@
   "types": "./dist/types/index.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/types/index.d.ts",
       "require": "./dist/vue3-swatches.cjs.js",
       "import": "./dist/vue3-swatches.es.js"
     },
